@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.damiangalarza.com">
+  <a href="https://www.damiangalarza.com?utm_source=github&utm_medium=profile&utm_campaign=profile-readme">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://assets.damiangalarza.com/images/damian-galarza-logo-white-rgb.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://assets.damiangalarza.com/images/damian-galarza-logo-full-color-rgb.svg">
@@ -23,9 +23,9 @@ Working patterns from real projects, not toy demos:
 ## Follow the work
 
 - [YouTube](https://youtube.com/@damian.galarza): weekly videos on AI engineering, agent architecture, and Claude Code
-- [Blog](https://www.damiangalarza.com/posts/): deep dives on production AI patterns
-- [Newsletter](https://www.damiangalarza.com/newsletter/): what I learned shipping AI this week, every Wednesday
+- [Blog](https://www.damiangalarza.com/posts/?utm_source=github&utm_medium=profile&utm_campaign=profile-readme): deep dives on production AI patterns
+- [Newsletter](https://www.damiangalarza.com/newsletter/?utm_source=github&utm_medium=profile&utm_campaign=profile-readme): what I learned shipping AI this week, every Wednesday
 
 ## Work with me
 
-I work with teams shipping AI into production through two-week Foundation Sprints and ongoing retainers, and I coach senior engineers building agents. Details at [damiangalarza.com](https://www.damiangalarza.com), or [book an intro call](https://cal.com/dgalarza/intro-call).
+I work with teams shipping AI into production through two-week Foundation Sprints and ongoing retainers, and I coach senior engineers building agents. Details at [damiangalarza.com](https://www.damiangalarza.com?utm_source=github&utm_medium=profile&utm_campaign=profile-readme), or [book an intro call](https://cal.com/dgalarza/intro-call?utm_source=github&utm_medium=profile&utm_campaign=profile-readme).
