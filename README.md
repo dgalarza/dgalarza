@@ -7,3 +7,25 @@
     </picture>
   </a>
 </p>
+
+I help builders apply AI. 15+ years of production software experience, former CTO, FDA-cleared medical device software, still shipping daily. Most AI demos never survive contact with production. My work focuses on what closes that gap: architecture, evals, observability, and the engineering judgment that makes agentic systems reliable.
+
+## What you'll find here
+
+Working patterns from real projects, not toy demos:
+
+- [claude-code-workflows](https://github.com/dgalarza/claude-code-workflows): the workflows, hooks, and automation patterns I use daily with Claude Code
+- [agent-skills](https://github.com/dgalarza/agent-skills): reusable Agent Skills for coding agents
+- [mastra-meeting-assistant](https://github.com/dgalarza/mastra-meeting-assistant): building a useful meeting assistant agent with Mastra
+- [claude-code-channels-demo](https://github.com/dgalarza/claude-code-channels-demo): a custom Claude Code Channel that receives Cal.com webhooks
+- [buttondown-mcp](https://github.com/dgalarza/buttondown-mcp): an MCP server for the Buttondown newsletter API
+
+## Follow the work
+
+- [YouTube](https://youtube.com/@damian.galarza): weekly videos on AI engineering, agent architecture, and Claude Code
+- [Blog](https://www.damiangalarza.com/posts/): deep dives on production AI patterns
+- [Newsletter](https://www.damiangalarza.com/newsletter/): what I learned shipping AI this week, every Wednesday
+
+## Work with me
+
+I work with teams shipping AI into production through two-week Foundation Sprints and ongoing retainers, and I coach senior engineers building agents. Details at [damiangalarza.com](https://www.damiangalarza.com), or [book an intro call](https://cal.com/dgalarza/intro-call).
