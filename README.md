@@ -1,4 +1,4 @@
-<p>
+<p align="center">
   <a href="https://www.damiangalarza.com">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://assets.damiangalarza.com/images/damian-galarza-logo-white-rgb.svg">
