@@ -14,8 +14,7 @@ I help engineering teams get AI from demo to production. 15+ years of production
 
 Working patterns from real projects, not toy demos:
 
-- [claude-code-workflows](https://github.com/dgalarza/claude-code-workflows): the workflows, hooks, and automation patterns I use daily with Claude Code — includes the free [Codebase Readiness assessment](https://www.damiangalarza.com/codebase-readiness/?utm_source=github&utm_medium=readme&utm_campaign=codebase-readiness), which scores your repo across 8 dimensions of agent-readiness
-- [agent-skills](https://github.com/dgalarza/agent-skills): reusable Agent Skills for coding agents
+- [agent-skills](https://github.com/dgalarza/agent-skills): the skills library I use daily with coding agents, installable as Claude Code plugins or with `npx skills`. Includes the free [Codebase Readiness assessment](https://www.damiangalarza.com/codebase-readiness/?utm_source=github&utm_medium=readme&utm_campaign=codebase-readiness), which scores your repo across 8 dimensions of agent-readiness, `agent-ready` for scaffolding AGENTS.md and regression-aware quality gates, and an engineering bundle for TDD, stacked PRs, and code review
 - [mastra-meeting-assistant](https://github.com/dgalarza/mastra-meeting-assistant): building a useful meeting assistant agent with Mastra
 - [claude-code-channels-demo](https://github.com/dgalarza/claude-code-channels-demo): a custom Claude Code Channel that receives Cal.com webhooks
 - [buttondown-mcp](https://github.com/dgalarza/buttondown-mcp): an MCP server for the Buttondown newsletter API
